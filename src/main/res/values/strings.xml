@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Consultor de cerveja-Jaqueline</string>
+    <string-array name="vetor">
+        <item> </item>
+     <item>Pale lager</item>
+        <item>Blonde Ale</item>
+        <item>Amber Ale</item>
+        <item>Red Ale</item>
+        <item>Stout</item>
+    </string-array>
+
+</resources>
